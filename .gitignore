@@ -1,0 +1,6 @@
+*.swp
+*.json
+.idea
+data
+guacone
+trustification-exporter
